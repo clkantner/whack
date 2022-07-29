@@ -50,7 +50,7 @@
 * next: balloon-cert
 * url: /skillmap/balloon/balloon3
 * imageUrl: /static/skillmap/backgrounds/mouse-comp.png
-* position: 2 2
+* position: 1 3
 
 
 
@@ -84,4 +84,4 @@
 * tags: easy, clicker, sprite, buttons, multiplayer
 * url: /skillmap/balloon/balloon4
 * imageUrl: /static/skillmap/balloon/balloon4.gif
-* position: 2 4
+* position: 3 3
