@@ -3,7 +3,7 @@
 * description: Create a simple carnival game where you try to hit the critters
 * infoUrl: skillmap/educator-info/balloon-map-info
 * bannerUrl: /static/skillmap/balloon/balloon3.gif
-* backgroundurl: https://raw.githubusercontent.com/clkantner/whack/master/skillmap2-3.png
+* backgroundurl: https://raw.githubusercontent.com/clkantner/whack/master/skillmap2-4.png
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
 * tertiarycolor: #82cd54
@@ -39,7 +39,7 @@
 * next: balloon3
 * url: /skillmap/balloon/balloon2
 * imageUrl: /static/skillmap/balloon/balloon2.gif
-* position: 0 2
+* position: 1 2
 
 
 ### balloon3
@@ -50,7 +50,7 @@
 * next: balloon-cert
 * url: /skillmap/balloon/balloon3
 * imageUrl: /static/skillmap/backgrounds/mouse-comp.png
-* position: 1 2
+* position: 2 2
 
 
 
@@ -62,7 +62,7 @@
 * url: /static/skillmap/certificates/balloon-cert.pdf
 * imageUrl: /static/skillmap/certificates/balloon-cert.png
 * next: balloon4
-* position: 2 2
+* position: 2 3
 * actions:
     * map: [Finish the Last Level!](/skillmap/balloon)
     * editor: [Edit Your Project with a Full Toolbox](/)
@@ -84,4 +84,4 @@
 * tags: easy, clicker, sprite, buttons, multiplayer
 * url: /skillmap/balloon/balloon4
 * imageUrl: /static/skillmap/balloon/balloon4.gif
-* position: 2 3
+* position: 2 4
