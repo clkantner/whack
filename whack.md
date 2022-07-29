@@ -3,10 +3,10 @@
 * description: Create a simple carnival game where you try to hit the critters
 * infoUrl: skillmap/educator-info/balloon-map-info
 * bannerUrl: /static/skillmap/balloon/balloon3.gif
-* backgroundurl: https://raw.githubusercontent.com/clkantner/whack/master/skillmap2.png
+* backgroundurl: https://raw.githubusercontent.com/clkantner/whack/master/skillmap2-2.png
 * primarycolor: #ffffff
 * secondarycolor: #fff53d
-* tertiarycolor: #bbeffe
+* tertiarycolor: #82cd54
 * completednodecolor: #4a8397
 * highlightcolor: #ff0000
 * allowcodecarryover: true
